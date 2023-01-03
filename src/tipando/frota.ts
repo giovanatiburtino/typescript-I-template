@@ -1,4 +1,5 @@
-export const frota: {}[] = [
+import { TCarro } from "./index"
+export const frota: TCarro[] = [
   {
     marca: 'Chevrolet',
     modelo: 'Onix',
